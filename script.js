@@ -1,3 +1,4 @@
+localStorage.removeItem("previousPairs");
 const names = ["Sam", "Paul", "Clare", "Dad", "Mom", "Evan"];
 const forbiddenPairs = [
     ["Paul", "Sam"],
